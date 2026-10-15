@@ -1,0 +1,12 @@
+{
+  "candidate": "Hamza El Ouahdani",
+  "facts": [
+    {"claim":"Hamza is an AI Engineer and Data Scientist focused on Generative AI, LLM evaluation, and applied data science.","source":"CV · Professional Summary","keywords":["AI Engineer","Data Scientist","Generative AI","LLM evaluation","applied data science","who is hamza","profile","présente","من هو"]},
+    {"claim":"At Turing, Hamza evaluates frontier LLM outputs for factual accuracy, reasoning quality, instruction-following, and safety alignment.","source":"CV · Professional Experience — Turing","keywords":["Turing","evaluate","evaluation","LLM","factual accuracy","reasoning","safety","Google","worked at google","experience","évaluation","تقييم","تورينغ"]},
+    {"claim":"Hamza's CV describes a trilingual Arabic/French/English health-tech RAG platform using FastAPI, ChromaDB, Claude API, and Docker.","source":"CV · Professional Experience — Independent health-tech RAG project","keywords":["built","shipped","production","project","RAG","health-tech","trilingual","Arabic","French","English","FastAPI","ChromaDB","Claude","Docker","platform","projet","plateforme","مشروع","منصة","بنى","طور"]},
+    {"claim":"Hamza reports building a longitudinal data pipeline covering more than 5,500 labelled biometric records, with Random Forest and LSTM models.","source":"CV · Independent health-tech project","keywords":["5500","5,500","biometric","records","data pipeline","Random Forest","LSTM","dataset","données","بيانات","سجل","بيومتري"]},
+    {"claim":"Hamza delivers corporate training in Machine Learning, Python, data visualization, and Generative AI at BIOTREND.","source":"CV · Professional Experience — BIOTREND","keywords":["trainer","training","BIOTREND","Machine Learning","Python","data visualization","corporate","teach","formation","مدرب","تدريب"]},
+    {"claim":"Hamza co-founded Trevanah Academy, an online academy focused on professional skills for the digital economy.","source":"CV · Professional Experience — Trevanah Academy","keywords":["Trevanah","academy","co-founder","online","education","skills","cofondateur","أكاديمية","التعليم"]},
+    {"claim":"His listed tools include Python, SQL, Git/GitHub, LangChain, LangGraph, ChromaDB, FastAPI, Docker, and AWS SageMaker.","source":"CV · Core Technical Skills","keywords":["technical skills","tools","Python","SQL","GitHub","LangChain","LangGraph","ChromaDB","FastAPI","Docker","AWS SageMaker","compétences","مهارات","تقنيات"]}
+  ]
+}
